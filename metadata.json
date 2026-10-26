@@ -1,0 +1,6 @@
+{
+  "name": "Outbreak: Dead Zone FPS",
+  "description": "Action-packed 3D first-person shooter web game. Battle waves of relentless zombies with multiple weapons, atmospheric visuals, tactical movement, and visceral combat audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
